@@ -1,7 +1,14 @@
-# Minimal starter for _javascript_ express APIs.
+# Tiny mongodb + express demo
 
-This is a minimal starter template for node.js API apps written in JavaScript (not TypeScript) using Express.
+### setup
 
-# Change me!
+```bash
+cp .env.example .env
+```
 
-Be sure to change this readme to document your project - it's yours!
+then edit .env to set your mongodb connection string
+
+```bash
+yarn
+yarn dev
+```
