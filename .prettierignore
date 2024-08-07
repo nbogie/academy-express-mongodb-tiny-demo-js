@@ -8,6 +8,7 @@ yarn.lock
 **/*.log
 
 **/*.postman.json
+**/*.postman_collection.json
 
 # (Example) Tell prettier to ignore all HTML files:
 # **/*.html
